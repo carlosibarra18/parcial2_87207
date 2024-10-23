@@ -11,8 +11,6 @@ function App() {
       <div className='container-fluid'>
         <BrowserRouter>
         <Cabecera/>
-        <h1>Free Mind (Rubrica dos)</h1>
-        <img src= { reactImagen}/><br/>
         <Ruteo/>
         </BrowserRouter>
       </div>
