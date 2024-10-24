@@ -1,4 +1,3 @@
-import  reactImagen  from "./assets/img/title.png"
 import "./App.css";
 import { BrowserRouter } from "react-router-dom";
 import { Ruteo } from "./app/utilidades/rutas/ruteo";
